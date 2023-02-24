@@ -21,12 +21,12 @@ I am knowledgeable about the BLoC Pattern and Provider Management, both of which
 <a href="https://github.com/IAmTheNe">
   <img src='https://img.shields.io/github/followers/IAmTheNe?logo=github&style=for-the-badge'/>
 </a>
-<a href="https://github.com/IAmTheNe">
+<a href="https://twitter.com/NguyenThe2310">
   <img src='https://img.shields.io/twitter/url?label=Nguy%C3%AAn%20Th%E1%BA%BF&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FNguyenThe2310'/>
 </a>
-<a href="https://github.com/IAmTheNe">
+<a href="https://www.linkedin.com/in/trnguyenthe/">
   <img src='https://img.shields.io/twitter/url?label=Tr%E1%BA%A7n%20Nguy%C3%AAn%20Th%E1%BA%BF&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FNguyenThe2310'/>
 </a>
-<a href="https://github.com/IAmTheNe">
+<a href="mailto:nguyenthe.work@gmail.com">
   <img src='https://img.shields.io/twitter/url?label=nguyenthe.work%40gmail.com&logo=gmail&style=for-the-badge&url=https%3A%2F%2Fimg.shields.io%2Fgithub%2Ffollowers%2FIAmTheNe%3Flogo%3Dgithub%26style%3Dfor-the-badge'/>
 </a>
